@@ -1,0 +1,20 @@
+.info {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display:block;
+    color: wheat;
+}
+
+.lil-gui {
+    --width: 2000px;
+    --spacing: 15px;
+    --checkbox-size: 50px;
+    --title-height: 50px;
+    --widget-height: 90px;
+    --name-width: 50%;
+    --font-size: 50px;
+    --input-font-size: 50px;
+}
