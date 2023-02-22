@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EarthAndMoon.iml" filepath="$PROJECT_DIR$/EarthAndMoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/js.iml" filepath="$PROJECT_DIR$/js.iml" />
     </modules>
   </component>
 </project>
