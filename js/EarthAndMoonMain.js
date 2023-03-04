@@ -20,6 +20,7 @@ let leftSideClicked = false;
 GeneratePlanets(scene);
 
 const gui = new GUI( { width: 1200 } );
+gui.title("Planet Information");
 const GUI_Planet_Info = {
     Planet_Name: '',
     Planet_Radius: '',
